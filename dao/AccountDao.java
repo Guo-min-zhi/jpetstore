@@ -16,5 +16,5 @@ public interface AccountDao {
   void updateAccount(Account account) throws DataAccessException;
 
 	List getUsernameList() throws DataAccessException;
-
+//hello , guo min zhi modified this file
 }
